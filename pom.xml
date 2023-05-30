@@ -14,7 +14,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.9.2</version>
+				<version>3.0.0</version>
 				<inherited>true</inherited>
 				<configuration>
 					<source>1.8</source>
